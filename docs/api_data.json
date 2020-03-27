@@ -22,9 +22,37 @@
     "type": "",
     "url": "",
     "version": "0.0.0",
+    "filename": "./docs./main.js",
+    "group": "/home/pmd/Workspace/apidocs/docs./main.js",
+    "groupTitle": "/home/pmd/Workspace/apidocs/docs./main.js",
+    "name": ""
+  },
+  {
+    "success": {
+      "fields": {
+        "Success 200": [
+          {
+            "group": "Success 200",
+            "optional": false,
+            "field": "varname1",
+            "description": "<p>No type.</p>"
+          },
+          {
+            "group": "Success 200",
+            "type": "String",
+            "optional": false,
+            "field": "varname2",
+            "description": "<p>With type.</p>"
+          }
+        ]
+      }
+    },
+    "type": "",
+    "url": "",
+    "version": "0.0.0",
     "filename": "./docs/main.js",
-    "group": "/home/computer/Workspace/apidocs/docs/main.js",
-    "groupTitle": "/home/computer/Workspace/apidocs/docs/main.js",
+    "group": "/home/pmd/Workspace/apidocs/docs/main.js",
+    "groupTitle": "/home/pmd/Workspace/apidocs/docs/main.js",
     "name": ""
   },
   {
