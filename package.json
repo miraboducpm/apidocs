@@ -1,0 +1,10 @@
+{
+    "name": "example",
+    "version": "0.1.0",
+    "description": "apiDoc basic example",
+    "apidoc": {
+      "title": "maitaito",
+      "url" : "http://52.163.80.245/v1"
+    }
+  }
+  
